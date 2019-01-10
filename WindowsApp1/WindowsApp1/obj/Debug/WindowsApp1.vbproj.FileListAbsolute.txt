@@ -1,0 +1,15 @@
+c:\users\lab1-22\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+c:\users\lab1-22\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+c:\users\lab1-22\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+c:\users\lab1-22\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+c:\users\lab1-22\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+c:\users\lab1-22\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+c:\users\lab1-22\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+c:\users\lab1-22\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+c:\users\lab1-22\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+c:\users\lab1-22\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+c:\users\lab1-22\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+c:\users\lab1-22\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+c:\users\lab1-22\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\LAB1-22\source\repos\WindowsApp1\WindowsApp1\bin\Debug\MySql.Data.dll
+C:\Users\LAB1-22\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CopyComplete
